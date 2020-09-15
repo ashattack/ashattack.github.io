@@ -1,9 +1,9 @@
 ---
 docs_dir: docs
 edit_uri: edit/master/docs
-repo_url: https://github.com/ashattack
-site_description: A starter portfolio template
-site_name: Portfolio website
+repo_url: https://github.com/ashattack/ashattack.github.io
+site_description: Ashlyn's home for developing creations
+site_name: Ashlyns Dev Creations
 
 extra_javascript:
     - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
